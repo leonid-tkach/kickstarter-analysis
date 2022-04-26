@@ -32,5 +32,5 @@ And *then* it occurred to me that I am wasting my and - probably - my instructor
     * to get such data we need to (i) convert every amount to a dollar equivalent at the exchange rate on the record's date, and (ii) convert the results to today's dollar according to inflation rates year on year.
     * such data would give us an idea of (i) how expensive it is to be a part of the industry in different countries, and (ii) how countries' price competitiveness changed through the years.
 - What are some other possible tables and/or graphs that we could create?
-  - Stacked area plot of Outcomes by Launch Date in percentage - not quantities - of successful, failed and cancelled events. It's going to show how good is a year in terms of success-to-failure ratio more obvious.
+  - Stacked-area plot of Outcomes by Launch Date in percentage - not quantities - of successful, failed and cancelled events. It's going to show how good is a year in terms of success-to-failure ratio more obvious.
   - Box-and-whisker plots of today-dollar Goal and Pledged amounts - by countries on specific year, by years on specific country - all that filtered by event types the user interested in. I mean a pair of boxes - Goal & Pledged of filtered events, side by side - for every year/country. It would enable users to decide on optimal countries for their projects.
